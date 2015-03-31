@@ -1,0 +1,1 @@
+A session selector written in pure bash.
